@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nguyen Xuan Tung</h1>
 <h3 align="center">A student developer in the process of learning from VietNam</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lodentb&label=Profile%20views&color=0e75b6&style=flat" alt="lodentb" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=torneighdo&label=Profile%20views&color=0e75b6&style=flat" alt="torneighdo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lodentb" alt="lodentb" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=torneighdo" alt="torneighdo" /></a> </p>
 
 - 🌱 I’m currently learning **AngularJs**
 
